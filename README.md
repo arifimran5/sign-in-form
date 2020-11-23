@@ -1,2 +1,2 @@
 # Basic sign-in-form
-> CSS layout
+> CSS layout using Flexbox
